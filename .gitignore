@@ -9,3 +9,10 @@ secret.txt
 .DS_Store
 .AppleDouble
 .LSOverride
+
+### img
+.md-images
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
