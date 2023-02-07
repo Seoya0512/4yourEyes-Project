@@ -1,4 +1,11 @@
+### env. ### 
 key.txt
 api_key.txt
 secret.txt
 .key
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
